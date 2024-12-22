@@ -15,10 +15,10 @@ Facial Landmark Tracking, Real-Time Safety, Neural
 Network Optimization.
 
 
-Shubham Kumar
+Karan Singh Rawat
 Department of Computing
 Technologies, School of Computing
 SRM Institute of Science and
 Technology, Kattankulathur
 Chengalpattu, India, 603203
-ss5552@srmist.edu.in
+kk8873@srmist.edu.in
