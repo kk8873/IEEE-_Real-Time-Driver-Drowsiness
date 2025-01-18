@@ -1,4 +1,4 @@
-Abstract— Driver fatigue is a leading cause of road accidents.
+#Abstract— Driver fatigue is a leading cause of road accidents.
 This research presents a real-time driver drowsiness
 detection system using deep learning, optimized for lowpower
 embedded systems. By compressing a complex model
@@ -13,6 +13,10 @@ management and accident prevention.
 Keywords: Drowsiness Detection, Low-Power Systems,
 Facial Landmark Tracking, Real-Time Safety, Neural
 Network Optimization.
+
+# Testing model
+![image alt](https://github.com/kk8873/Real-Time-Driver-Drowsiness-Detection/blob/37a76cc03ca67fa5a1c5fd9a1391ab4cd862e2da/IMG-20240927-WA0021.jpg)
+
 
 
 Karan Singh Rawat
