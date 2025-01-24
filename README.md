@@ -3,7 +3,7 @@
 ## Abstract
 Driver fatigue is a leading cause of road accidents. This research presents a real-time driver drowsiness detection system using deep learning, optimized for low-power embedded systems. By compressing a complex model into a lightweight version, the system achieves an 85.5% accuracy in detecting various alertness states while maintaining energy efficiency. Utilizing facial landmark tracking and the Haar-Cascade method, the approach ensures fast and accurate detection, making it ideal for real-time vehicle safety applications. The system's integration into modern vehicles promises enhanced driver fatigue management and accident prevention.
 
-International Conference (IEEE-2025 Paper Publication)
+International Conference (IEEE-2024 Paper Publication)
 ![Alt text](https://github.com/kk8873/Real-Time-Driver-Drowsiness-Detection/blob/3c6f3012ab5d267fbfbefdcfc4ba129e1bf7c13a/Screenshot%202025-01-25%20014311.png?raw=true)
 
 ## Testing Model
